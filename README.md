@@ -54,4 +54,4 @@ er zijn meer advanced manieren:
 
 Ci/CD(Continuous integration/Continuous Deployment)
 
-Voordeel: Nooit meer filezilla
+Voordeel: Nooit meer filezilla, nooit meer human error
